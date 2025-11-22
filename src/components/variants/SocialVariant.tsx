@@ -126,7 +126,7 @@ export const SocialVariant = () => {
           {/* COLUMN 1 - YOUR LINKS */}
           <div>
             <h2 className="text-xl font-bold mb-4 text-indigo-200/80 tracking-wider uppercase">
-              My Networks
+              Jawad Networks
             </h2>
 
             <div className="space-y-4">
@@ -139,7 +139,7 @@ export const SocialVariant = () => {
           {/* COLUMN 2 - FRIEND LINKS */}
           <div>
             <h2 className="text-xl font-bold mb-4 text-indigo-200/80 tracking-wider uppercase">
-              Friend's Networks
+              Reza Networks
             </h2>
 
             <div className="space-y-4">
